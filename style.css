@@ -16,13 +16,6 @@ h1{
     grid-template-rows: repeat(3, 100px);
     /* border: 10PX solid red; */
     justify-content: center;
-    box-shadow: 0 0 2px 3px rgba(5, 0, 0, 0.161) ;
-    width: 25vw;
-    height: 50vh;
-    margin: auto;
-    padding:3rem 2.5rem 1.5rem 2.5rem;
-    border-radius: 1rem;
-
   
     
   }
